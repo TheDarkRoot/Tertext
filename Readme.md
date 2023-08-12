@@ -49,3 +49,4 @@ python Tertext.py
 
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/Tertext%2001.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/Tertext%2001.png)
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/Tertext%2002.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/Tertext%2002.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/Tertext%2003.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/Tertext%2003.png)
